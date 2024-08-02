@@ -1,0 +1,26 @@
+{
+  "name": "anoop-currency-converter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type":"module" ,
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anoop-singh-dev/cs-currency-converter.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Anoop Singh",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/anoop-singh-dev/cs-currency-converter/issues"
+  },
+  "homepage": "https://github.com/anoop-singh-dev/cs-currency-converter#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
